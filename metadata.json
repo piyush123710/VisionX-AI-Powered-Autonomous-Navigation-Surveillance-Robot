@@ -1,0 +1,10 @@
+{
+  "name": "VisionX — AI-Powered Autonomous Navigation & Surveillance Robot",
+  "description": "Industry-grade autonomous robotics platform with real-time AI vision, YOLO object tracking, SLAM navigation, obstacle avoidance, sensor telemetry, and mission command center.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
